@@ -1,4 +1,4 @@
-# IBM : Python Project for Data Science (Coursera)
+# IBM - Python Project for Data Science (Coursera)
 **Final Assignment :** Analyzing Historical Stock/Revenue Data and Building a Dashboard.
 
 ---
@@ -16,5 +16,5 @@ Individual investors using the forum on the Reddit online community named WallSt
 ---
 ### Course Link - https://www.coursera.org/learn/python-project-for-data-science
 ---
-### Certificate - https://www.coursera.org/account/accomplishments/verify/3OUPJMR69APS
+### Course Certificate - https://www.coursera.org/account/accomplishments/verify/3OUPJMR69APS
 ---
